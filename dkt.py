@@ -12,7 +12,6 @@
 #       dataset.txt.preds predictions for test trials
 #
 from keras.layers import TimeDistributed, Dense, Masking, LSTM
-from keras.losses import binary_crossentropy
 from keras.preprocessing import sequence
 from keras.models import Sequential
 from keras.utils import np_utils
