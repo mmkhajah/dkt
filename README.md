@@ -12,7 +12,7 @@ we implemented our own LSTM variant of DKT. This repository contains our impleme
 
 # Requirements
  - Python
- - Theano
+ - TensorFlow or Theano
  - Keras
  - numpy
  - scikit-learn
